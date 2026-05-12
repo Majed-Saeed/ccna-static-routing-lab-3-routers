@@ -26,8 +26,3 @@ Cisco Packet Tracer lab implementing IPv4 static routing across a three-router t
 - Router Configuration
 - Connectivity Verification
 - Basic Troubleshooting
-
-## Files
-
-- `ccna-static-routing-3-routers.pkt`
-- `README.md`
